@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card {
+    @apply bg-white rounded-md overflow-hidden shadow-md relative hover:shadow-lg;
+}
+
+.badge {
+    @apply bg-stone-100 text-stone-500 text-xs uppercase font-semibold rounded-full p-2 absolute top-0 ml-2 mt-2;
+}
+
+.primaryBtn {
+    @apply px-3 py-2.5 text-sm font-medium text-center text-white transition duration-500 ease-in-out transform bg-blue-600 lg:px-3 rounded-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500;
+}
+
+.secondaryBtn {
+    @apply px-3 py-2.5 text-sm font-medium text-center text-gray-800 transition duration-500 ease-in-out transform bg-neutral-50 lg:px-3 rounded-md hover:bg-neutral-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500;
+}
