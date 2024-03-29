@@ -1,4 +1,4 @@
-Learning Tailwind CSS framwork for styling the website design. Here, I accomplished some Tailwind predefined class like:
+Obtaining knowledge of the Tailwind CSS framework for designing websites styles.  I learned a few Tailwind preset classes here, such as:
 1. Colors Pallete
 2. Typography
 3. Layout (Grid, Flex)
@@ -6,15 +6,15 @@ Learning Tailwind CSS framwork for styling the website design. Here, I accomplis
 5. Media Query
 6. Effect (hover)
 
-During the learning, I checked out few UI templates on the Internet which are integrating Tailwind CSS such as:
+I looked at a few UI templates that incorporate Tailwind CSS while I was learning, such these:
 1. Preline UI
 2. Meraki UI
 3. Flowbite
 4. Wicked
 
-Theses template are helpful as an inspiration to make styling website and speed up front-end development. I have used one of it as the buttons for this tutorial.
+These templates can be applied as a source of inspiration for helping expedite front-end development and decorate websites. I have used one of it as the buttons for this tutorial.
 
 Sources:
-https://www.youtube.com/playlist?list=PLFIM0718LjIUHFRMzPJ0wGjx9_NlC5d1h
-https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw
-https://tailwindcss.com/docs/installation
+1. https://www.youtube.com/playlist?list=PLFIM0718LjIUHFRMzPJ0wGjx9_NlC5d1h
+2. https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw
+3. https://tailwindcss.com/docs/installation
